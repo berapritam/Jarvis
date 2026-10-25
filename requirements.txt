@@ -1,0 +1,14 @@
+# --- existing (ollama_service2.py) ---
+flask
+flask-cors
+requests
+
+# --- new: face detection ---
+opencv-python-headless
+numpy
+
+# --- new: ElevenLabs TTS -- plain requests calls, no SDK needed ---
+# (requests already listed above)
+
+# --- new: skill generation + security audit ---
+# (no extra deps -- stdlib + requests only)
