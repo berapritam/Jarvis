@@ -1,4 +1,4 @@
-# SentinelAI — everything merged into ollama_service2.py
+# JarvisAI — everything merged into ollama_service2.py
 
 ```
 sentinelai/
